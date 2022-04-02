@@ -1,0 +1,158 @@
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\appsettings.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.exe
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.deps.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.runtimeconfig.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.runtimeconfig.dev.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.csproj.AssemblyReference.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.AssemblyInfoInputs.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.AssemblyInfo.cs
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\scopedcss\bundle\DisneyApi.Presentation.styles.css
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\staticwebassets\DisneyApi.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.csproj.CopyComplete
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\refint\DisneyApi.Presentation.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.genruntimeconfig.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\obj\Debug\net5.0\ref\DisneyApi.Presentation.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.AccessData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Application.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Domain.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.AccessData.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Application.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Domain.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\IdentityServer3.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\DisneyApi\bin\Debug\net5.0\Owin.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\appsettings.json
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.exe
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.deps.json
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.runtimeconfig.json
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.runtimeconfig.dev.json
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Presentation.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\IdentityServer3.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Owin.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.AccessData.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Application.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Domain.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.AccessData.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Application.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\bin\Debug\net5.0\DisneyApi.Domain.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.csproj.AssemblyReference.cache
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.AssemblyInfoInputs.cache
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.AssemblyInfo.cs
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\scopedcss\bundle\DisneyApi.Presentation.styles.css
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\staticwebassets\DisneyApi.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.csproj.CopyComplete
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\refint\DisneyApi.Presentation.dll
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.pdb
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\DisneyApi.Presentation.genruntimeconfig.cache
+C:\Users\kerne\Desktop\DisneyApi\DisneyApi\obj\Debug\net5.0\ref\DisneyApi.Presentation.dll

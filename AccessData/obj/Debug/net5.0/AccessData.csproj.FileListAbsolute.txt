@@ -1,0 +1,12 @@
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\AccessData.deps.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\AccessData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\AccessData.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\AccessData.csproj.AssemblyReference.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\AccessData.AssemblyInfoInputs.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\AccessData.AssemblyInfo.cs
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\AccessData.csproj.CoreCompileInputs.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\AccessData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\refint\AccessData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\AccessData.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\ref\AccessData.dll

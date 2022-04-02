@@ -1,0 +1,30 @@
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.deps.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.runtimeconfig.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.runtimeconfig.dev.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.csproj.AssemblyReference.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.AssemblyInfoInputs.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.AssemblyInfo.cs
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\refint\DisneyApi.Domain.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.genruntimeconfig.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\Domain\obj\Debug\net5.0\ref\DisneyApi.Domain.dll
+C:\Users\kerne\Desktop\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.deps.json
+C:\Users\kerne\Desktop\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.runtimeconfig.json
+C:\Users\kerne\Desktop\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.runtimeconfig.dev.json
+C:\Users\kerne\Desktop\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.dll
+C:\Users\kerne\Desktop\DisneyApi\Domain\bin\Debug\net5.0\DisneyApi.Domain.pdb
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.csproj.AssemblyReference.cache
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.AssemblyInfoInputs.cache
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.AssemblyInfo.cs
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.dll
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\refint\DisneyApi.Domain.dll
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.pdb
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\DisneyApi.Domain.genruntimeconfig.cache
+C:\Users\kerne\Desktop\DisneyApi\Domain\obj\Debug\net5.0\ref\DisneyApi.Domain.dll

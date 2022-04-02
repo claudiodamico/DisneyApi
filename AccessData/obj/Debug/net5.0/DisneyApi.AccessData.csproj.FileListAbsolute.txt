@@ -1,0 +1,36 @@
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.deps.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.runtimeconfig.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.runtimeconfig.dev.json
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.Domain.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.Domain.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.csproj.AssemblyReference.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.AssemblyInfoInputs.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.AssemblyInfo.cs
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.csproj.CopyComplete
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\refint\DisneyApi.AccessData.dll
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.pdb
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.genruntimeconfig.cache
+C:\Users\casto\OneDrive\Documents\Practica Api's\DisneyApi\AccessData\obj\Debug\net5.0\ref\DisneyApi.AccessData.dll
+C:\Users\kerne\Desktop\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.deps.json
+C:\Users\kerne\Desktop\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.runtimeconfig.json
+C:\Users\kerne\Desktop\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.runtimeconfig.dev.json
+C:\Users\kerne\Desktop\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.dll
+C:\Users\kerne\Desktop\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.AccessData.pdb
+C:\Users\kerne\Desktop\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.Domain.dll
+C:\Users\kerne\Desktop\DisneyApi\AccessData\bin\Debug\net5.0\DisneyApi.Domain.pdb
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.csproj.AssemblyReference.cache
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.AssemblyInfoInputs.cache
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.AssemblyInfo.cs
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.csproj.CopyComplete
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.dll
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\refint\DisneyApi.AccessData.dll
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.pdb
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\DisneyApi.AccessData.genruntimeconfig.cache
+C:\Users\kerne\Desktop\DisneyApi\AccessData\obj\Debug\net5.0\ref\DisneyApi.AccessData.dll
